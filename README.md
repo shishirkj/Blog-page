@@ -20,3 +20,8 @@ Code of Conduct
 
 # Feel free to customize this template based on your specific project and its requirements.
 
+![Screenshot (81)](https://github.com/shishirkj/Blog-page/assets/90249481/d08cc0dd-fba4-43fe-b30d-cf5aff9f6e2e)
+
+
+
+![Screenshot (82)](https://github.com/shishirkj/Blog-page/assets/90249481/518e330f-1f2f-4580-a10b-f43fa672f161)
